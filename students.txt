@@ -1,0 +1,5 @@
+s,s,s,s,s
+d,d,d,d,d
+g,g,g,g,g
+Hamza,5,pf,cs,03469831104
+hammad,9,ict,cs,0311122145
